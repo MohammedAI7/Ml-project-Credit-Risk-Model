@@ -4,6 +4,7 @@
 An end-to-end Credit Risk Modelling solution built for **Finance Companies** to predict **loan default probability**, generate **credit scores (300–900)**, and assign **risk ratings**.  
 The project covers data preprocessing, feature engineering, model optimization, evaluation, and deployment via **Streamlit**.
 
+🔗 **Live App:** [Credit Risk Modelling Streamlit App](https://ml-project-credit-risk-model-cb.streamlit.app/)
 ---
 
 ## 🧭 Project Overview
